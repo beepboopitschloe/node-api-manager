@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/nmuth/node-api-manager/issues"
   },
-  "homepage": "https://github.com/nmuth/node-api-manager"
+  "homepage": "https://github.com/nmuth/node-api-manager",
+  "dependencies": {}
 }
