@@ -1,0 +1,22 @@
+{
+  "name": "node-api-manager",
+  "version": "0.0.0",
+  "description": "Module which abstracts API services for Node apps so that they may be easily unit tested.",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nmuth/node-api-manager"
+  },
+  "author": "Noah Muth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nmuth/node-api-manager/issues"
+  },
+  "homepage": "https://github.com/nmuth/node-api-manager"
+}
