@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/nmuth/node-api-manager",
   "dependencies": {
-    "body-parser": "^1.12.4"
+    "body-parser": "^1.12.4",
+    "q": "^1.4.1"
   }
 }
